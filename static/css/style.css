@@ -1,0 +1,7 @@
+html * {
+    font-family: sans-serif;
+}
+
+body > nav > ul > img {
+    max-width: 60px;
+}
