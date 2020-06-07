@@ -1,3 +1,4 @@
 export FLASK_APP="main.py" #Establecer de donde se ejecutará nuestra apliación de flask
 export FLASK_DEBUG=1 #Activar modo debug
 flask run #para ejecutar la aplicación de flask
+exportLASK F_ENV=development
